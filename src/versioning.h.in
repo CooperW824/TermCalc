@@ -1,0 +1,10 @@
+#ifndef VERSIONING_H
+#define VERSIONING_H
+
+
+#define VERSION_MAJOR @TerminalCalculator_VERSION_MAJOR@
+#define VERSION_MINOR @TerminalCalculator_VERSION_MINOR@
+#define VERSION_PATCH @TerminalCalculator_VERSION_PATCH@
+#define VERSION "@TerminalCalculator_VERSION@"
+
+#endif // VERSIONING_H
